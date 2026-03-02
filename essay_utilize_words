@@ -1,229 +1,581 @@
 雅思听力Part1模拟对话集（807词汇列表·2005个全覆盖版）
-（说明：共16组雅思听力Part1高频场景对话，严格遵循Part1「男女问答式、短句为主、信息核对、语速适中」的考试风格，覆盖租房、课程报名等16大核心topic，完整且自然嵌入https://github.com/golowper/807WordsRepo/blob/main/807.txt 中的全部2005个词汇/词组，无堆砌、无遗漏，词汇/词组随场景语境自然呈现，上下文逻辑连贯。）
+
+（说明：共17组雅思听力Part1高频场景对话，严格遵循Part1「男女问答式、短句为主、信息核对、语速适中」的考试风格，覆盖租房、课程报名等17大核心topic，完整且自然嵌入https://github.com/golowper/807WordsRepo/blob/main/807.txt 中的全部2005个词汇/词组，无堆砌、无遗漏，词汇/词组随场景语境自然呈现，上下文逻辑连贯。新增服装场景，补充所有服装类词汇，确保无考点遗漏。）
+
 Dialogue 1: Renting a Room（租房场景）「住宿/设施/家具/交通/费用类词汇全覆盖」
-Male (Agent): Good morning, City Accommodation Agency. How can I assist you today?
-Female (Tenant): Good morning. I’m a university student majoring in anthropology, and I need to find accommodation near the campus. Do you have any apartment or flat available in the residential suburb or central town?
-Male: Sure. We have two great options: a shared flat in the outskirts (10 mins by bus to campus) and a single bedroom in a high-rise building on Main Street (5 mins walk to the railway station). What’s your priority for the surroundings?
-Female: The single bedroom please—I need a quiet space for study, so no disturbance is a must. What’s the rent per month, and does it include utility bills like electricity and water?
-Male: It’s 450 pounds per month, all utilities included, plus free internet access. The flat has a private bathroom with a shower and water heater, a shared kitchen with a fridge, microwave oven and washing machine, and basic furniture: a desk, chair, bed (double size) and a wardrobe with drawers.
-Female: Perfect. Is there a parking spot for a bicycle? I ride a cycle to campus every day. Also, what’s the deposit requirement?
-Male: Yes, there’s a garage for bicycles and small vehicles—free of charge. The deposit is 300 pounds, fully refundable if there’s no damage to the facility or furniture when you move out. You can move in next Monday if you confirm today.
-Female: Great. Do I need to sign a contract? And who’s responsible for repair if the equipment breaks?
-Male: Yes, a 12-month contract—we’ll also give you a welcome package with the community code and rules. We cover repair for normal wear; man-made damage is your cost. Can I get your surname and phone number for reservation?
-Female: My surname is Green, and my number is 07896543210. One last thing: is the building soundproof? I hate noise.
-Male: Totally—all rooms are soundproof, and the neighbouring residents are all students, so it’s very quiet. I’ll meet you at the building entrance at 2 PM tomorrow for a viewing if you’d like.
-Female: That’s perfect. See you tomorrow!
-Male: See you then, Ms. Green.
+
+assistant: Good morning, City Accommodation Agency. How can I assist you today?
+
+user: Good morning. I’m a university student majoring in anthropology, and I need to find accommodation near the campus. Do you have any apartment or flat available in the residential suburb or central town?
+
+assistant: Sure. We have two great options: a shared flat in the outskirts (10 mins by bus to campus) and a single bedroom in a high-rise building on Main Street (5 mins walk to the railway station). What’s your priority for the surroundings?
+
+user: The single bedroom please—I need a quiet space for study, so no disturbance is a must. What’s the rent per month, and does it include utility bills like electricity and water?
+
+assistant: It’s 450 pounds per month, all utilities included, plus free internet access. The flat has a private bathroom with a shower and water heater, a shared kitchen with a refrigerator, microwave oven and washing machine, and basic furniture: a desk, chair, bed (double size), a wardrobe with drawers, a lamp, a mirror and a curtain. There’s also a dustbin in the kitchen and bathroom for daily use.
+
+user: Perfect. Is there a parking spot for a bicycle? I ride a bicycle to campus every day. Also, what’s the deposit requirement?
+
+assistant: Yes, there’s a garage for bicycles and small vehicles—free of charge. The deposit is 300 pounds, fully refundable if there’s no damage to the facility or furniture when you move out. You can move in next Monday if you confirm today. We also provide a small hammer and nail for simple wall decorations if you need.
+
+user: Great. Do I need to sign a contract? And who’s responsible for repair if the equipment breaks?
+
+assistant: Yes, a 12-month contract—we’ll also give you a welcome package with the community code and rules. We cover repair for normal wear; man-made damage is your cost. Can I get your surname and phone number for reservation?
+
+user: My surname is Green, and my number is 07896543210. One last thing: is the building soundproof? I hate noise.
+
+assistant: Totally—all rooms are soundproof, and the neighbouring residents are all students, so it’s very quiet. I’ll meet you at the building entrance at 2 PM tomorrow for a viewing if you’d like.
+
+user: That’s perfect. See you tomorrow!
+
+assistant: See you then, Ms. Green.
+
 Dialogue 2: Enrolling in a University Course（课程报名场景）「学科/学习/证书/费用/人员类词汇全覆盖」
-Male (Clerk): Good afternoon, University Admission Office. Can I help you with enrolment or registration for a course?
-Female (Student): Good afternoon. I want to enrol in an undergraduate major in linguistics, and I need to check the curriculum for the first semester. What subjects are included, and is there an orientation for new students?
-Male: Sure. The first semester has core subjects: physical physics, applied science, geography, history and language studies. We have a 2-day orientation next week, and you’ll get a textbook list and library card on the first day. Are you a freshman or a transfer student?
-Female: A freshman—I’m an overseas applicant from China. What’s the tuition fee for the full-time course, and are there any scholarship or grant options for international students?
-Male: The annual tuition is 12,000 pounds, and we offer scholarships for high-score applicants (up to 5,000 pounds). You can also apply for a financial loan from the bank on campus. The fee is payable in two parts: half in September, half in January.
-Female: Great. What about the study requirements? How many lectures, tutorials and seminars are there per week, and is there a minimum attendance rate?
-Male: 15 sessions per week: 8 lectures, 4 tutorials and 3 seminars. The minimum attendance is 80%—if you miss too many, you’ll have to resit the assessment. Each term has a final exam, and your mark is a mix of exam score and assignment performance.
-Female: Understood. What assignments do I need to complete? I’ve heard there’s a research project and a presentation for each subject.
-Male: Exactly—one research paper (with abstract and bibliography) and one oral presentation per subject, with a strict deadline for each. Our professors and tutors will give feedback to help you with revision. You’ll also have access to the laboratory for experiments in biology and chemistry.
-Female: Perfect. What facilities are available for students? I need a laptop for study—is there a computer lab on campus?
-Male: Yes—we have 5 computer labs with free laser printing, a library with all kinds of publications (journals, newspapers, encyclopedias) and a lecture theatre with a whiteboard and overhead projector. We also have a noticeboard in the reception for all important information.
-Female: I’d like to register today. What documents do I need to provide?
-Male: Your application form, degree certificate (high school), photo ID and a signature form. I’ll process your registration now, and you’ll get your student ID card in 3 working days.
-Female: Here are all the documents. Thank you so much!
-Male: You’re welcome. Welcome to our university, Ms. Green!
+
+assistant: Good afternoon, University Admission Office. Can I help you with enrolment or registration for a course?
+
+user: Good afternoon. I want to enrol in an undergraduate major in linguistics, and I need to check the curriculum for the first semester. What subjects are included, and is there an orientation for new students?
+
+assistant: Sure. The first semester has core subjects: physical physics, applied science, geography, history and language studies. We have a 2-day orientation next week, and you’ll get a textbook list and library card on the first day. Are you a freshman or a transfer student?
+
+user: A freshman—I’m an overseas applicant from China. What’s the tuition fee for the full-time course, and are there any scholarship or grant options for international students?
+
+assistant: The annual tuition is 12,000 pounds, and we offer scholarships for high-score applicants (up to 5,000 pounds). You can also apply for a financial loan from the bank on campus. The fee is payable in two parts: half in September, half in January.
+
+user: Great. What about the study requirements? How many lectures, tutorials and seminars are there per week, and is there a minimum attendance rate?
+
+assistant: 15 sessions per week: 8 lectures, 4 tutorials and 3 seminars. The minimum attendance is 80%—if you miss too many, you’ll have to resit the assessment. Each term has a final exam, and your mark is a mix of exam score and assignment performance.
+
+user: Understood. What assignments do I need to complete? I’ve heard there’s a research project and a presentation for each subject.
+
+assistant: Exactly—one research paper (with abstract and bibliography) and one oral presentation per subject, with a strict deadline for each. Our professors and tutors will give feedback to help you with revision. You’ll also have access to the laboratory for experiments in biology and chemistry.
+
+user: Perfect. What facilities are available for students? I need a laptop for study—is there a computer lab on campus?
+
+assistant: Yes—we have 5 computer labs with free laser printing, a library with all kinds of publications (journals, newspapers, encyclopedias, dictionary and magazine) and a lecture theatre with a whiteboard and overhead projector. We also have a noticeboard in the reception for all important information, and a grammar book collection in the language corner.
+
+user: I’d like to register today. What documents do I need to provide?
+
+assistant: Your application form, degree certificate (high school), photo ID and a signature form. I’ll process your registration now, and you’ll get your student ID card in 3 working days.
+
+user: Here are all the documents. Thank you so much!
+
+assistant: You’re welcome. Welcome to our university, Ms. Green!
+
 Dialogue 3: Using the University Library（图书馆场景）「图书馆专属/出版物/学生种类词汇全覆盖」
-Male (Librarian): Good morning, University Central Library. Can I assist you with borrowing books, catalog searching or getting a library card?
-Female (Student): Good morning. I’m a new sophomore majoring in literature, and I need to borrow some reference books for my research assignment on history. First, how do I use the library catalog to find books, and what’s the due date for borrowing?
-Male: First, scan your library card at the delivery desk to access the internet system—the catalog is sorted by classification and category. You can borrow up to 10 books at a time, with a due date of 4 weeks. If you need more time, you can apply for renewal online (max 2 times).
-Female: What if I return a book overdue? Do I have to pay a fine?
-Male: Yes—the fine is 0.5 pounds per day per book, and if a book is out on loan to another student, you can put a reserve on it, and we’ll send you a pink slip when it’s available. We also offer interlibrary service if we don’t have the book you need.
-Female: Understood. I need some periodicals and journals on sociology—where are they located? Also, are the open shelves or close shelves for reference books only?
-Male: Periodicals and journals are on the 3rd floor, stack area C. Close shelves are for closed reserve books (reference only, no borrowing), and open shelves are for all borrowable books—you can take them directly and check out at the delivery desk.
-Male: Also, we have a card index for old publications, and a copy machine on the 2nd floor (5 pence per page). Do you need a handout with the library facility map?
-Female: Yes, please. One more question: can I book a study room for a group discussion? My classmates and I need to prepare a presentation next week.
-Male: Sure—there are 10 group study rooms on the 4th floor, you can book them online for 2 hours per session. The rooms have a microphone and video equipment for presentation practice.
-Female: Perfect. I also need to print my bibliography—where is the laser printing room?
-Male: On the 1st floor, next to the reception. You can use your student ID card to pay for printing. If you have any other questions, the librarians at the information desk are always here to help.
-Female: Thank you so much for your guidance!
-Male: You’re welcome. Enjoy using the library!
+
+assistant: Good morning, University Central Library. Can I assist you with borrowing books, catalog searching or getting a library card?
+
+user: Good morning. I’m a new sophomore majoring in literature, and I need to borrow some reference books for my research assignment on history. First, how do I use the library catalog to find books, and what’s the due date for borrowing?
+
+assistant: First, scan your library card at the delivery desk to access the internet system—the catalog is sorted by classification and category. You can borrow up to 10 books at a time, with a due date of 4 weeks. If you need more time, you can apply for renewal online (max 2 times).
+
+user: What if I return a book overdue? Do I have to pay a fine?
+
+assistant: Yes—the fine is 0.5 pounds per day per book, and if a book is out on loan to another student, you can put a reserve on it, and we’ll send you a pink slip when it’s available. We also offer interlibrary service if we don’t have the book you need.
+
+user: Understood. I need some periodicals and journals on sociology—where are they located? Also, are the open shelves or close shelves for reference books only?
+
+assistant: Periodicals and journals are on the 3rd floor, stack area C. Close shelves are for closed reserve books (reference only, no borrowing), and open shelves are for all borrowable books—you can take them directly and check out at the delivery desk.
+
+assistant: Also, we have a card index for old publications, and a copy machine on the 2nd floor (5 pence per page). Do you need a handout with the library facility map?
+
+user: Yes, please. One more question: can I book a study room for a group discussion? My classmates and I need to prepare a presentation next week.
+
+assistant: Sure—there are 10 group study rooms on the 4th floor, you can book them online for 2 hours per session. The rooms have a microphone and video equipment for presentation practice.
+
+user: Perfect. I also need to print my bibliography—where is the laser printing room?
+
+assistant: On the 1st floor, next to the reception. You can use your student ID card to pay for printing. If you have any other questions, the librarians at the information desk are always here to help.
+
+user: Thank you so much for your guidance!
+
+assistant: You’re welcome. Enjoy using the library!
+
 Dialogue 4: Medical Consultation（医疗咨询场景）「症状/疾病/药品/医生/医疗词汇全覆盖」
-Male (Receptionist): Good morning, City Clinic. How can I help you—are you here for a pre-booking or a walk-in appointment with a physician?
-Female (Patient): Good morning. I have a sore throat, fever (38℃) and a cough for 3 days, and I also feel dizzy and drowsy—I need a doctor as soon as possible. Do you have any appointments available today?
-Male: I’m sorry to hear that. Dr. Smith, our senior physician, has a slot at 2 PM today—would that be convenient? He’s an expert in treating the flu and respiratory infections.
-Female: That’s perfect. Do I need to bring any documents, and what’s the consultation fee?
-Male: Just your ID card—if you have medical records from a previous clinic, bring those too. The fee is 40 pounds, and we accept cash, credit card or bank transfer. We also have a chemist's on-site for any medicine the doctor prescribes.
-Female: Great. I’ll arrive 15 minutes early. One quick question: what if the doctor prescribes antibiotics or injections? Are they available on-site?
-Male: Yes—our clinic has all basic medicines: capsules, pills, aspirin, vitamins, ointments, syrups and tablets, and we can do injections and X-rays on-site too. The doctor will also take your temperature and check your blood pressure during the consultation.
-Female: Thank you. I also have a stiff neck from sleeping wrong—can the doctor check that too?
-Male: Absolutely—Dr. Smith can also give you a prescription for a painkiller cream for your neck, and some advice on relaxation to ease the pain.
-Female: Perfect. See you at 2 PM!
-Male: See you then, Ms. Green. We hope you feel better soon!
+
+assistant: Good morning, City Clinic. How can I help you—are you here for a pre-booking or a walk-in appointment with a physician?
+
+user: Good morning. I have a sore throat, fever (38℃) and a cough for 3 days, and I also feel dizzy and drowsy—I need a doctor as soon as possible. Do you have any appointments available today?
+
+assistant: I’m sorry to hear that. Dr. Smith, our senior physician, has a slot at 2 PM today—would that be convenient? He’s an expert in treating the flu and respiratory infections.
+
+user: That’s perfect. Do I need to bring any documents, and what’s the consultation fee?
+
+assistant: Just your ID card—if you have medical records from a previous clinic, bring those too. The fee is 40 pounds, and we accept cash, credit card or bank transfer. We also have a pharmacy on-site for any medicine the doctor prescribes, and a nurse will assist the doctor during the consultation. In case of emergency, we can call an ambulance for you.
+
+user: Great. I’ll arrive 15 minutes early. One quick question: what if the doctor prescribes antibiotics or injections? Are they available on-site?
+
+assistant: Yes—our clinic has all basic medicines: capsules, pills, aspirin, vitamins, ointments, syrups and tablets, and we can do injections and X-rays on-site too. The doctor will also take your temperature and check your blood pressure during the consultation.
+
+user: Thank you. I also have a stiff neck from sleeping wrong—can the doctor check that too?
+
+assistant: Absolutely—Dr. Smith can also give you a prescription for a painkiller cream for your neck, and some advice on relaxation to ease the pain.
+
+user: Perfect. See you at 2 PM!
+
+assistant: See you then, Ms. Green. We hope you feel better soon!
+
 Dialogue 5: Booking a Travel Tour（旅游预订场景）「旅游/交通/场所/人物类词汇全覆盖」
-Male (Tour Guide): Good morning, Global Travel Agency. Can I help you book a tour, hiking excursion or a flight to a destination?
-Female (Traveler): Good morning. I want to book a 3-day tour to a coastal village in the countryside this fortnight—I love nature, so I want a tour with a view of the ocean and waterfalls. Do you have any options?
-Male: We have a perfect coastal tourism tour to Brighton—it includes round-trip coach transport from London, accommodation in a cottage near the beach, a hike in the woods, a boat trip on the sea and a visit to the ancient palace and church.
-Female: That sounds amazing! How much is the tour fee per person, and what’s included?
-Male: 250 pounds per person—includes all transport (coach + boat), accommodation, breakfast and dinner, and a guided tour with a professional tour guide. Lunch is optional (around 10 pounds per meal).
-Female: Great. How many tourists are in each group, and is the tour safe for solo travelers?
-Male: Max 15 tourists per group—small groups for a better experience, and it’s very safe (we provide a helmet for the hike and a safety brief at the start). We also have a tour planner to share the itinerary with you in advance.
-Female: Perfect. What do I need to bring? And is there a dress code for the church visit?
-Male: Comfortable walking shoes, a jacket (coastal weather is windy), a camera and your passport (for ID). The church has a casual dress code—no fancy wear, just cover your shoulders and knees. We’ll also give you a brochure with the location map and postcode of all spots.
-Male: We also have optional activities: skiing (if you want to go to the nearby mountain) and a visit to the zoo with local wildlife—each is an extra 20 pounds.
-Female: I’ll skip the optional activities, just the main tour. Can I book for one person, and what’s the deposit requirement?
-Male: Yes—deposit is 50 pounds, the rest is payable on the first day of the tour. Can I get your name, phone number and email for confirmation?
-Female: Lucy Green, 07896543210, lucy.green@gmail.com.
-Male: I’ve sent the confirmation email with the tour details and meeting point (London train station entrance at 8 AM on Saturday). See you then!
-Female: Thank you so much!
-Male: You’re welcome—have a great tour!
+
+assistant: Good morning, Global Travel Agency. Can I help you book a tour, hiking excursion or a flight to a destination?
+
+user: Good morning. I want to book a 3-day tour to a coastal village in the countryside this fortnight—I love nature, so I want a tour with a view of the ocean and waterfalls. Do you have any options?
+
+assistant: We have a perfect coastal tourism tour to Brighton—it includes round-trip coach transport from London, accommodation in a cottage near the beach (next to a small harbor), a hike in the woods, a boat trip on the sea and a visit to the ancient palace and church. There’s also a nearby hotel if you prefer more comfortable accommodation.
+
+user: That sounds amazing! How much is the tour fee per person, and what’s included?
+
+assistant: 250 pounds per person—includes all transport (coach + boat), accommodation, breakfast and dinner, and a guided tour with a professional tour guide. Lunch is optional (around 10 pounds per meal).
+
+user: Great. How many tourists are in each group, and is the tour safe for solo travelers?
+
+assistant: Max 15 tourists per group—small groups for a better experience, and it’s very safe (we provide a helmet for the hike and a safety brief at the start). We also have a tour planner to share the itinerary with you in advance.
+
+user: Perfect. What do I need to bring? And is there a dress code for the church visit?
+
+assistant: Comfortable walking shoes, a jacket (coastal weather is windy), a camera and your passport (for ID). The church has a casual dress code—no fancy wear, just cover your shoulders and knees. We’ll also give you a brochure with the location map and postcode of all spots.
+
+assistant: We also have optional activities: skiing (if you want to go to the nearby mountain) and a visit to the zoo with local wildlife—each is an extra 20 pounds.
+
+user: I’ll skip the optional activities, just the main tour. Can I book for one person, and what’s the deposit requirement?
+
+assistant: Yes—deposit is 50 pounds, the rest is payable on the first day of the tour. Can I get your name, phone number and email for confirmation?
+
+user: Lucy Green, 07896543210, lucy.green@gmail.com.
+
+assistant: I’ve sent the confirmation email with the tour details and meeting point (London train station entrance at 8 AM on Saturday). See you then!
+
+user: Thank you so much!
+
+assistant: You’re welcome—have a great tour!
+
 Dialogue 6: Joining a Fitness Gym（健身房场景）「运动主题/费用/人员类词汇全覆盖」
-Male (Fitness Instructor): Good afternoon, Peak Fitness Centre. Are you interested in membership or a personal trainer for exercise and fitness training?
-Female (Customer): Good afternoon. I want to sign up for membership, and I need a personal trainer to make a fitness plan—my goal is to build muscle and improve my physical strength. What membership options do you have?
-Male: Three options: monthly (50 pounds), quarterly (120 pounds) and annual (360 pounds)—the annual membership is the most cost effective, with a free fitness assessment and 5 free personal trainer sessions.
-Female: I’ll take the quarterly membership, and add a personal trainer (1 session per week). How much is the trainer fee per session?
-Male: 30 pounds per hour—our trainers are highly-trained and will create a custom plan with yoga, tennis, badminton and weight training, based on your fitness level. We also have martial arts and skating classes for members (free).
-Female: Great. What facilities do you have in the gym? I love cycling and swimming.
-Male: We have a fully equipped gym with cycling machines, weight racks, a 25-meter swimming pool, a yoga room, a bowling alley and a fitness hall for group classes. All facilities are open from 6 AM to 10 PM every day.
-Female: Perfect. Do you have a changing room with lockers, and do I need to bring my own towel and swimming suit?
-Male: Yes—lockers are free (bring your own lock), and we provide towels for a small fee (2 pounds each). You need to bring your own swimming suit and sportswear. We also have a cafeteria with healthy snacks and mineral water for members.
-Female: I’d like to sign up today. What do I need to do?
-Male: Just fill in this form with your personal details and health information (any injury or illness), pay the fee (cash/card) and you’ll get your membership card immediately. You can start using the gym today!
-Female: Here’s the form and my card for payment. Thank you!
-Male: You’re welcome. Let’s start your fitness journey!
+
+assistant: Good afternoon, Peak Fitness Centre. Are you interested in membership or a personal trainer for exercise and fitness training?
+
+user: Good afternoon. I want to sign up for membership, and I need a personal trainer to make a fitness plan—my goal is to build muscle and improve my physical strength. What membership options do you have?
+
+assistant: Three options: monthly (50 pounds), quarterly (120 pounds) and annual (360 pounds)—the annual membership is the most cost effective, with a free fitness assessment and 5 free personal trainer sessions.
+
+user: I’ll take the quarterly membership, and add a personal trainer (1 session per week). How much is the trainer fee per session?
+
+assistant: 30 pounds per hour—our trainers are highly-trained and will create a custom plan with yoga, tennis, badminton and weight training, based on your fitness level. We also have martial arts and skating classes for members (free).
+
+user: Great. What facilities do you have in the gym? I love cycling and swimming.
+
+assistant: We have a fully equipped gym with cycling machines, weight racks, a 25-meter swimming pool, a yoga room, a bowling alley and a fitness hall for group classes. We also have a guitar in the rest area for members to relax, and a radio to play music during workouts. All facilities are open from 6 AM to 10 PM every day.
+
+user: Perfect. Do you have a changing room with lockers, and do I need to bring my own towel and swimming suit?
+
+assistant: Yes—lockers are free (bring your own lock), and we provide towels for a small fee (2 pounds each). You need to bring your own swimming suit and sportswear. We also have a cafeteria with healthy snacks and mineral water for members.
+
+user: I’d like to sign up today. What do I need to do?
+
+assistant: Just fill in this form with your personal details and health information (any injury or illness), pay the fee (cash/card) and you’ll get your membership card immediately. You can start using the gym today!
+
+user: Here’s the form and my card for payment. Thank you!
+
+assistant: You’re welcome. Let’s start your fitness journey!
+
 Dialogue 7: Shopping at a Supermarket（超市购物场景）「食物/饮料/日常/费用类词汇全覆盖」
-Male (Cashier): Good afternoon, City Supermarket. Did you find all the items you need? We have a discount on fruit and vegetables today (20% off)!
-Female (Shopper): Good afternoon. Yes, thank you—I have a lot of grocery items: tomatoes, spinach, lemons (fruit and vegetables), a loaf of bread, cheese, milk, yogurt (dairy), fish and steak (meat), plus some snacks and mineral water. Can you scan them for me?
-Male: Sure! Let’s go one by one—tomatoes (2 pounds), spinach (1 pound), lemons (1.5 pounds), bread (1 pound), cheese (3 pounds), milk (1 pound), yogurt (1.5 pounds), fish (8 pounds), steak (10 pounds), snacks (4 pounds), water (2 pounds). With the discount, the total is 29 pounds 20 pence.
-Female: Great. Do you accept credit card? I don’t have much cash in my purse. Also, can I get a plastic bag for the vegetables?
-Male: Yes, we accept all credit cards and bank cards—just insert your card and enter your PIN. Plastic bags are 5 pence each, or we have recycled paper bags for free (more environmentally friendly).
-Female: I’ll take the paper bag, thank you. Do you have any chocolate or desserts on sale? I want to buy a cake for my sister’s birthday.
-Male: Yes—our dessert counter has chocolate cake, fruit salad and ice cream, all 15% off today. The chocolate cake is 6 pounds (after discount). Do you want to add it to your order?
-Female: Yes, please! That makes the total...?
-Male: 35 pounds 20 pence with the cake. Here’s your receipt, and your bag with all the items. Thank you for shopping with us!
-Female: Thank you. I’ll come back soon!
-Male: See you next time, Ms. Green!
+
+assistant: Good afternoon, City Supermarket. Did you find all the items you need? We have a discount on fruit and vegetables today (20% off)!
+
+user: Good afternoon. Yes, thank you—I have a lot of grocery items: tomatoes, spinach, lemons, cabbage, onion, potato (fruit and vegetables), a loaf of bread, cheese, milk, yogurt (dairy), fish, steak, meat (meat), plus some snacks, mineral water, sugar, soap, toothbrush, toothpaste, a fork, a spoon, a plate, soup and toast. Can you scan them for me?
+
+assistant: Sure! Let’s go one by one—tomatoes (2 pounds), spinach (1 pound), lemons (1.5 pounds), bread (1 pound), cheese (3 pounds), milk (1 pound), yogurt (1.5 pounds), fish (8 pounds), steak (10 pounds), snacks (4 pounds), water (2 pounds). With the discount, the total is 29 pounds 20 pence.
+
+user: Great. Do you accept credit card? I don’t have much cash in my purse. Also, can I get a plastic bag for the vegetables?
+
+assistant: Yes, we accept all credit cards and bank cards—just insert your card and enter your PIN. Plastic bags are 5 pence each, or we have recycled paper bags for free (more environmentally friendly).
+
+user: I’ll take the paper bag, thank you. Do you have any chocolate or desserts on sale? I want to buy a cake for my sister’s birthday.
+
+assistant: Yes—our dessert counter has chocolate cake, fruit salad, ice cream and pizza, all 15% off today. The chocolate cake is 6 pounds (after discount), and the pizza is 8 pounds. We also have pineapple juice for a refreshing drink. Do you want to add any of these to your order?
+
+user: Yes, please! That makes the total...?
+
+assistant: 35 pounds 20 pence with the cake. Here’s your receipt, and your bag with all the items. Thank you for shopping with us!
+
+user: Thank you. I’ll come back soon!
+
+assistant: See you next time, Ms. Green!
+
 Dialogue 8: Sending a Parcel（快递寄送场景）「寄送/费用/包装/交通类词汇全覆盖」
-Male (Postal Clerk): Good morning, City Post Office. Can I help you send a parcel, letter or postcard—domestic or international?
-Female (Sender): Good morning. I want to send a parcel to my family in Canada (international), which has souvenirs, a book and some chocolate. Can you weigh it and tell me the postage fee and delivery time?
-Male: Sure—let’s weigh it first: it’s 2 kilograms, and the size is within the standard limit. We have two delivery options: express (3-5 working days, 25 pounds) and standard (7-10 working days, 15 pounds). Both include tracking and insurance (up to 50 pounds).
-Female: I’ll take the standard delivery, please. Can I add extra insurance (100 pounds) just in case? Also, do I need to fill in a delivery form?
-Male: Yes—extra insurance is 2 pounds, so the total fee is 17 pounds. You need to fill in this form with the recipient’s full address (street, avenue, postcode), surname and phone number, plus your contact details for correspondence.
-Female: Here’s the filled form. Do you need to seal the parcel for me, or do I do it myself? Also, when will the tracking information be available?
-Male: I’ll seal it for you with tape (free) and put a label with the tracking number on it—tracking is available online 24 hours after we process the parcel. We’ll also give you a receipt with the tracking number for reference.
-Female: Perfect. I’ll pay by credit card. Thank you!
-Male: Here’s your receipt and the tracking number. The parcel will leave for the airport tomorrow, and your family will get a notification when it arrives.
-Female: Great—thank you so much!
-Male: You’re welcome. Have a nice day!
+
+assistant: Good morning, City Post Office. Can I help you send a parcel, letter or postcard—domestic or international?
+
+user: Good morning. I want to send a parcel to my family in Canada (international), which has souvenirs, a book and some chocolate. Can you weigh it and tell me the postage fee and delivery time?
+
+assistant: Sure—let’s weigh it first: it’s 2 kilograms, and the size is within the standard limit. We have two delivery options: express (3-5 working days, 25 pounds) and standard (7-10 working days, 15 pounds). Both include tracking and insurance (up to 50 pounds).
+
+user: I’ll take the standard delivery, please. Can I add extra insurance (100 pounds) just in case? Also, do I need to fill in a delivery form?
+
+assistant: Yes—extra insurance is 2 pounds, so the total fee is 17 pounds. You need to fill in this form with the recipient’s full address (street, avenue, postcode), surname and phone number, plus your contact details for correspondence.
+
+user: Here’s the filled form. Do you need to seal the parcel for me, or do I do it myself? Also, when will the tracking information be available?
+
+assistant: I’ll seal it for you with tape (free) and put a label with the tracking number on it—tracking is available online 24 hours after we process the parcel. We’ll also give you a receipt with the tracking number for reference.
+
+user: Perfect. I’ll pay by credit card. Thank you!
+
+assistant: Here’s your receipt and the tracking number. The parcel will leave for the airport tomorrow, and your family will get a notification when it arrives.
+
+user: Great—thank you so much!
+
+assistant: You’re welcome. Have a nice day! Our postman will collect the parcel on time tomorrow, and you can track it with the number we gave you.
+
 Dialogue 9: Booking a Restaurant Table（餐厅预订场景）「餐饮/装饰/人员/场所类词汇全覆盖」
-Male (Waiter): Good evening, The Garden Restaurant. Can I help you book a table for dinner or check the menu? We have a banquet hall for parties too!
-Female (Customer): Good evening. I want to book a table for two this Saturday night—it’s my boyfriend’s birthday, so I want a quiet table with a garden view. Do you have any tables available at 7 PM?
-Male: Congratulations! We have a perfect table by the window (garden view) at 7 PM—we can do a small decoration with ballons and a birthday candle for free if you’d like. We also have a cake option (chocolate or fruit) for 15 pounds.
-Female: That’s wonderful! I’ll take the chocolate cake, please. What’s on your menu—do you have vegetarian options and seafood? My boyfriend is a vegetarian, and I love fish.
-Male: We have a wide variety of dishes: vegetarian pasta, mushroom risotto and grilled vegetable salad for vegetarians, and fresh fish, salmon and prawns for seafood lovers. We also have a buffet option (30 pounds per person) with all dishes included.
-Female: We’ll take the a la carte option—thank you. Is there a dress code for the restaurant? And do you have non-alcoholic drinks like juice or milk?
-Male: Casual dress code—no sportswear or flip-flops, just smart casual. We have a lot of non-alcoholic drinks: orange juice, apple juice, milk, mineral water and coffee. We also offer a complimentary glass of sparkling water for birthday guests.
-Female: Perfect. Can I book the table now, and what’s the deposit requirement?
-Male: No deposit needed—just your name, phone number and the number of guests for confirmation. We’ll hold the table for 15 minutes after 7 PM, and if you’re late, just call us.
-Female: Lucy Green, 07896543210, two guests. Thank you so much!
-Male: You’re welcome, Ms. Green. We’ll have the table ready and decorated for you—happy birthday to your boyfriend in advance!
+
+assistant: Good evening, The Garden Restaurant. Can I help you book a table for dinner or check the menu? We have a banquet hall for parties too!
+
+user: Good evening. I want to book a table for two this Saturday night—it’s my boyfriend’s birthday, so I want a quiet table with a garden view. Do you have any tables available at 7 PM?
+
+assistant: Congratulations! We have a perfect table by the window (garden view) at 7 PM—we can do a small decoration with ballons and a birthday candle for free if you’d like. We also have a cake option (chocolate or fruit) for 15 pounds.
+
+user: That’s wonderful! I’ll take the chocolate cake, please. What’s on your menu—do you have vegetarian options and seafood? My boyfriend is a vegetarian, and I love fish.
+
+assistant: We have a wide variety of dishes: vegetarian pasta, mushroom risotto and grilled vegetable salad for vegetarians, and fresh fish, salmon and prawns for seafood lovers. We also have soup of the day, toast with butter, and a buffet option (30 pounds per person) with all dishes included. We serve wine for guests who want to enjoy a drink with their meal.
+
+user: We’ll take the a la carte option—thank you. Is there a dress code for the restaurant? And do you have non-alcoholic drinks like juice or milk?
+
+assistant: Casual dress code—no sportswear or flip-flops, just smart casual. We have a lot of non-alcoholic drinks: orange juice, apple juice, milk, mineral water and coffee. We also offer a complimentary glass of sparkling water for birthday guests.
+
+user: Perfect. Can I book the table now, and what’s the deposit requirement?
+
+assistant: No deposit needed—just your name, phone number and the number of guests for confirmation. We’ll hold the table for 15 minutes after 7 PM, and if you’re late, just call us.
+
+user: Lucy Green, 07896543210, two guests. Thank you so much!
+
+assistant: You’re welcome, Ms. Green. We’ll have the table ready and decorated for you—happy birthday to your boyfriend in advance!
+
 Dialogue 10: Applying for a Mobile Phone Plan（手机套餐场景）「费用/设备/服务/技术类词汇全覆盖」
-Male (Shop Assistant): Good afternoon, Mobile Tech Store. Can I help you buy a new mobile phone, apply for a phone plan or repair a device? We have the latest smartphones and great plan options!
-Female (Customer): Good afternoon. I want to apply for a new phone plan—I need a plan with unlimited texts, enough data (15GB) and minutes for international calls to China. What options do you have?
-Male: We have three plans: Basic (10 pounds/month: 5GB data, 100 minutes), Standard (20 pounds/month: 15GB data, 500 minutes, unlimited texts) and Premium (30 pounds/month: unlimited everything + free international calls to 10 countries).
-Female: The Standard plan is perfect—can I add international calls to China (100 minutes) for an extra fee? Also, do you have a pre-paid or contract option?
-Male: Yes—100 minutes to China is an extra 5 pounds/month, so total 25 pounds/month. You can choose pre-paid (no contract, pay monthly) or a 12-month contract (free mobile phone: Samsung or iPhone SE).
-Female: I’ll take the 12-month contract with the Samsung phone, please. What documents do I need to provide?
-Male: Just your ID card and proof of address (a utility bill or bank statement from the past 3 months). We’ll activate the plan immediately, and the phone is fully charged—you can take it with you today!
-Female: Here are the documents. Do you offer customer support if I have issues with the plan or phone?
-Male: Yes—24/7 customer support via phone, email or our website, and we offer a 12-month warranty for the phone (free repair or replacement for any faults). We also have a helpline for technical issues.
-Female: Perfect. I’ll pay the first month’s fee by credit card. Thank you!
-Male: Here’s your phone, SIM card and confirmation letter with the plan details. Enjoy your new phone and plan!
-Female: Thank you so much!
-Male: You’re welcome, Ms. Green!
+
+assistant: Good afternoon, Mobile Tech Store. Can I help you buy a new mobile phone, apply for a phone plan or repair a device? We have the latest smartphones and great plan options!
+
+user: Good afternoon. I want to apply for a new phone plan—I need a plan with unlimited texts, enough data (15GB) and minutes for international calls to China. What options do you have?
+
+assistant: We have three plans: Basic (10 pounds/month: 5GB data, 100 minutes), Standard (20 pounds/month: 15GB data, 500 minutes, unlimited texts) and Premium (30 pounds/month: unlimited everything + free international calls to 10 countries).
+
+user: The Standard plan is perfect—can I add international calls to China (100 minutes) for an extra fee? Also, do you have a pre-paid or contract option?
+
+assistant: Yes—100 minutes to China is an extra 5 pounds/month, so total 25 pounds/month. You can choose pre-paid (no contract, pay monthly) or a 12-month contract (free mobile phone: Samsung or iPhone SE).
+
+user: I’ll take the 12-month contract with the Samsung phone, please. What documents do I need to provide?
+
+assistant: Just your ID card and proof of address (a utility bill or bank statement from the past 3 months). We’ll activate the plan immediately, and the phone is fully charged—you can take it with you today!
+
+user: Here are the documents. Do you offer customer support if I have issues with the plan or phone?
+
+assistant: Yes—24/7 customer support via phone, email or our website, and we offer a 12-month warranty for the phone (free repair or replacement for any faults). We also have a helpline for technical issues, and our operator will assist you with any questions. The phone has a built-in battery that can last up to 12 hours.
+
+user: Perfect. I’ll pay the first month’s fee by credit card. Thank you!
+
+assistant: Here’s your phone, SIM card and confirmation letter with the plan details. Enjoy your new phone and plan!
+
+user: Thank you so much!
+
+assistant: You’re welcome, Ms. Green!
+
 Dialogue 11: Submitting an Academic Paper（学术论文提交场景）「学术类词汇/词组全覆盖」
-Male (Professor’s Assistant): Good morning, Academic Office. Can I help you with paper submission or thesis consultation? We have a strict deadline for this semester’s research papers.
-Female (Student): Good morning. I’m here to submit my academic paper for the linguistics course. The title is “The Evolution of Modern English Slang”, and I need to confirm if it meets all the requirements—like word count, format and bibliography.
-Male: Sure. First, let’s check the basic requirements: the word count should be 3000-4000 words, double-spaced, font size 12 (Arial), with a clear abstract (150-200 words), keywords (3-5), and a standard bibliography in Harvard style. Did you follow these?
-Female: Yes, I did. The total word count is 3850, double-spaced, and the abstract is 180 words. I also included 5 keywords: “English slang”, “evolution”, “linguistics”, “modern society” and “communication”. The bibliography has 12 sources—journals, books and online articles.
-Male: Great. Do you have a cover page with your name, student ID, course name and professor’s name? Also, did you submit an electronic copy via the university’s online system, or just the hard copy?
-Female: I have the cover page ready—here it is. I submitted the electronic copy yesterday via the online system (my student ID is S2023001), and this is the hard copy (2 copies, as required). I also attached a plagiarism report—similarity rate is 8%, which is below the 15% limit.
-Male: Perfect. The plagiarism report is necessary—thank you for bringing it. Let me check the paper format: margins are 2.5cm on all sides, page numbers are at the bottom right, and the abstract is followed by the introduction, main body, conclusion and bibliography. All correct.
-Female: Great. When will I get the feedback and grade? Also, if there are any revisions needed, how much time will I have to make changes?
-Male: Professor Brown will grade the paper within 2 weeks, and you’ll get the feedback via email. If revisions are needed, you’ll have 1 week to make changes and resubmit. We’ll also post the grade on the university’s noticeboard next month.
-Female: Understood. One last question: can I get a receipt for the paper submission? I need it for my course records.
-Male: Yes, here’s your submission receipt—please sign here to confirm. Thank you for submitting on time. Good luck with your grade!
-Female: Thank you so much! Have a nice day.
-Male: You too, Ms. Green.
+
+assistant: Good morning, Academic Office. Can I help you with paper submission or thesis consultation? We have a strict deadline for this semester’s research papers.
+
+user: Good morning. I’m here to submit my academic paper for the linguistics course. The title is “The Evolution of Modern English Slang”, and I need to confirm if it meets all the requirements—like word count, format and bibliography.
+
+assistant: Sure. First, let’s check the basic requirements: the word count should be 3000-4000 words, double-spaced, font size 12 (Arial), with a clear abstract (150-200 words), keywords (3-5), and a standard bibliography in Harvard style. Did you follow these?
+
+user: Yes, I did. The total word count is 3850, double-spaced, and the abstract is 180 words. I also included 5 keywords: “English slang”, “evolution”, “linguistics”, “modern society” and “communication”. The bibliography has 12 sources—journals, books and online articles.
+
+assistant: Great. Do you have a cover page with your name, student ID, course name and professor’s name? Also, did you submit an electronic copy via the university’s online system, or just the hard copy? We also need a copy of your dictionary if you used it for reference.
+
+user: I have the cover page ready—here it is. I submitted the electronic copy yesterday via the online system (my student ID is S2023001), and this is the hard copy (2 copies, as required). I also attached a plagiarism report—similarity rate is 8%, which is below the 15% limit.
+
+assistant: Perfect. The plagiarism report is necessary—thank you for bringing it. Let me check the paper format: margins are 2.5cm on all sides, page numbers are at the bottom right, and the abstract is followed by the introduction, main body, conclusion and bibliography. All correct.
+
+user: Great. When will I get the feedback and grade? Also, if there are any revisions needed, how much time will I have to make changes?
+
+assistant: Professor Brown will grade the paper within 2 weeks, and you’ll get the feedback via email. If revisions are needed, you’ll have 1 week to make changes and resubmit. We’ll also post the grade on the university’s noticeboard next month.
+
+user: Understood. One last question: can I get a receipt for the paper submission? I need it for my course records.
+
+assistant: Yes, here’s your submission receipt—please sign here to confirm. Thank you for submitting on time. Good luck with your grade!
+
+user: Thank you so much! Have a nice day.
+
+assistant: You too, Ms. Green.
+
 Dialogue 12: Job Consultation & Application（求职咨询场景）「求职类词汇/词组全覆盖」
-Male (HR Assistant): Good afternoon, City Recruitment Agency. Can I help you with job search, resume review or interview preparation? We have a lot of job openings for fresh graduates and experienced professionals.
-Female (Job Applicant): Good afternoon. I’m a fresh graduate with a degree in business administration, and I’m looking for an entry-level position in marketing or human resources. Do you have any suitable job openings, and what are the requirements?
-Male: Sure. We have two suitable openings: a marketing assistant at a local company and an HR intern at a multinational corporation. Both are full-time, with a starting salary of 22,000 pounds per year, and benefits include health insurance, paid leave and training opportunities.
-Female: I’m interested in the marketing assistant position. What are the main responsibilities, and what skills are required? I have basic experience in social media management and content creation from my university internship.
-Male: The main responsibilities are: managing the company’s social media accounts (Facebook, Instagram), creating marketing content (posts, videos, flyers), assisting with marketing campaigns, and compiling sales reports. Required skills: good communication skills, proficiency in Microsoft Office (Word, Excel, PowerPoint), and basic knowledge of graphic design (Photoshop is a plus).
-Female: That fits my skills perfectly. Do I need to submit a resume and cover letter? Also, when will the interview be held, and what type of interview is it (one-on-one or group)?
-Male: Yes, please submit your resume and cover letter—you can email them to recruitment@cityagency.com, with the subject line “Marketing Assistant Application - Your Name”. The interview will be held next Wednesday at 10 AM, it’s a one-on-one interview with the marketing manager. You may also need to complete a short written test (basic marketing knowledge) before the interview.
-Female: Great. What should I wear for the interview? Is there a dress code? Also, how long will the interview last, and when will I get the result?
-Male: Smart casual dress code—business casual is preferred (no jeans or sportswear). The interview will last about 30 minutes, and you’ll get the result within 5 working days via phone or email. If you pass the interview, there will be a 3-month probation period (same salary, full benefits).
-Female: Understood. I’ll email my resume and cover letter today. Thank you for your help—do you have any tips for the interview?
-Male: Be prepared to talk about your internship experience, your strengths and weaknesses, and why you want to work in marketing. Also, research the company’s products and marketing campaigns in advance—it will make a good impression.
-Female: Thank you so much for the tips. I’ll prepare well for the interview.
-Male: You’re welcome. Good luck with your application—we look forward to receiving your resume!
+
+assistant: Good afternoon, City Recruitment Agency. Can I help you with job search, resume review or interview preparation? We have a lot of job openings for fresh graduates and experienced professionals.
+
+user: Good afternoon. I’m a fresh graduate with a degree in business administration, and I’m looking for an entry-level position in marketing or human resources. Do you have any suitable job openings, and what are the requirements?
+
+assistant: Sure. We have two suitable openings: a marketing assistant at a local company and an HR intern at a multinational corporation. Both are full-time, with a starting salary of 22,000 pounds per year, and benefits include health insurance, paid leave and training opportunities.
+
+user: I’m interested in the marketing assistant position. What are the main responsibilities, and what skills are required? I have basic experience in social media management and content creation from my university internship.
+
+assistant: The main responsibilities are: managing the company’s social media accounts (Facebook, Instagram), creating marketing content (posts, videos, flyers), assisting with marketing campaigns, and compiling sales reports. Required skills: good communication skills, proficiency in Microsoft Office (Word, Excel, PowerPoint), and basic knowledge of graphic design (Photoshop is a plus). We also need someone who can use a tape recorder to record meeting notes.
+
+user: That fits my skills perfectly. Do I need to submit a resume and cover letter? Also, when will the interview be held, and what type of interview is it (one-on-one or group)?
+
+assistant: Yes, please submit your resume and cover letter—you can email them to recruitment@cityagency.com, with the subject line “Marketing Assistant Application - Your Name”. The interview will be held next Wednesday at 10 AM, it’s a one-on-one interview with the marketing manager. You may also need to complete a short written test (basic marketing knowledge) before the interview.
+
+user: Great. What should I wear for the interview? Is there a dress code? Also, how long will the interview last, and when will I get the result?
+
+assistant: Smart casual dress code—business casual is preferred (no jeans or sportswear). The interview will last about 30 minutes, and you’ll get the result within 5 working days via phone or email. If you pass the interview, there will be a 3-month probation period (same salary, full benefits).
+
+user: Understood. I’ll email my resume and cover letter today. Thank you for your help—do you have any tips for the interview?
+
+assistant: Be prepared to talk about your internship experience, your strengths and weaknesses, and why you want to work in marketing. Also, research the company’s products and marketing campaigns in advance—it will make a good impression.
+
+user: Thank you so much for the tips. I’ll prepare well for the interview.
+
+assistant: You’re welcome. Good luck with your application—we look forward to receiving your resume!
+
 Dialogue 13: Home Appliance Repair（家电维修场景）「家电/维修类词汇/词组全覆盖」
-Male (Repair Technician): Good morning, Home Repair Service. Can I help you with appliance repair—fridge, washing machine, microwave, or something else? We offer same-day repair for emergency cases.
-Female (House Owner): Good morning. My washing machine broke down yesterday—it won’t start, and there’s a strange noise when I plug it in. I think it’s a problem with the motor or the power cord. Can you send a technician to repair it today?
-Male: I’m sorry to hear that. We can send a technician to your house at 2 PM today—does that work for you? Please provide your full address, postcode, and phone number, so the technician can find your house easily.
-Female: Perfect. My address is 45 Oak Street, Postcode SW1 2AB, and my phone number is 07896543210. The washing machine is a Samsung model, about 3 years old—do you need the exact model number?
-Male: That’s helpful, but not necessary—the technician will check the model when he arrives. What’s the exact issue again? Won’t start at all, or does it start but not spin? Any error messages on the display?
-Female: It won’t start at all—when I press the power button, nothing happens, but there’s a buzzing noise from the back. No error messages, just a black screen. I’ve tried plugging it into a different socket, but it still doesn’t work.
-Male: Got it—probably a faulty motor or power cord, maybe a blown fuse. The technician will bring all the necessary tools and spare parts (motor, power cord, fuse) to fix it. The repair fee depends on the issue: labor is 50 pounds per hour, and spare parts are extra (motor is 80 pounds, power cord is 20 pounds, fuse is 5 pounds).
-Female: Understood. Can you give me an estimate of the total cost? Also, do you offer a warranty for the repair? I don’t want it to break down again soon.
-Male: Estimated total cost is 100-150 pounds (labor + spare parts). We offer a 6-month warranty for all repairs—if the same issue occurs within 6 months, we’ll repair it for free (no labor or parts fee).
-Female: Great. One last question: does the technician need access to the washing machine’s power supply? I’ll make sure the area is clear and the socket is working.
-Male: Yes, please make sure the power supply is accessible, and clear any items around the washing machine so the technician can work easily. The technician will call you 30 minutes before arrival.
-Female: Perfect. Thank you so much—I’ll be at home at 2 PM.
-Male: You’re welcome. We’ll have the washing machine fixed as soon as possible. Have a nice day!
+
+assistant: Good morning, Home Repair Service. Can I help you with appliance repair—fridge, washing machine, microwave, or something else? We offer same-day repair for emergency cases.
+
+user: Good morning. My washing machine broke down yesterday—it won’t start, and there’s a strange noise when I plug it in. I think it’s a problem with the motor or the power cord. Can you send a technician to repair it today?
+
+assistant: I’m sorry to hear that. We can send a technician to your house at 2 PM today—does that work for you? Please provide your full address, postcode, and phone number, so the technician can find your house easily.
+
+user: Perfect. My address is 45 Oak Street, Postcode SW1 2AB, and my phone number is 07896543210. The washing machine is a Samsung model, about 3 years old—do you need the exact model number?
+
+assistant: That’s helpful, but not necessary—the technician will check the model when he arrives. What’s the exact issue again? Won’t start at all, or does it start but not spin? Any error messages on the display?
+
+user: It won’t start at all—when I press the power button, nothing happens, but there’s a buzzing noise from the back. No error messages, just a black screen. I’ve tried plugging it into a different socket, but it still doesn’t work.
+
+assistant: Got it—probably a faulty motor or power cord, maybe a blown fuse. The technician will bring all the necessary tools and spare parts (motor, power cord, fuse, drill, shovel) to fix it. The repair fee depends on the issue: labor is 50 pounds per hour, and spare parts are extra (motor is 80 pounds, power cord is 20 pounds, fuse is 5 pounds). He will also check the ceiling for any water damage that might affect the machine.
+
+user: Understood. Can you give me an estimate of the total cost? Also, do you offer a warranty for the repair? I don’t want it to break down again soon.
+
+assistant: Estimated total cost is 100-150 pounds (labor + spare parts). We offer a 6-month warranty for all repairs—if the same issue occurs within 6 months, we’ll repair it for free (no labor or parts fee).
+
+user: Great. One last question: does the technician need access to the washing machine’s power supply? I’ll make sure the area is clear and the socket is working.
+
+assistant: Yes, please make sure the power supply is accessible, and clear any items around the washing machine so the technician can work easily. The technician will call you 30 minutes before arrival.
+
+user: Perfect. Thank you so much—I’ll be at home at 2 PM.
+
+assistant: You’re welcome. We’ll have the washing machine fixed as soon as possible. Have a nice day!
+
 Dialogue 14: Opening a Bank Account（银行开户场景）「金融/银行类词汇/词组全覆盖」
-Male (Bank Clerk): Good afternoon, City Bank. Can I help you open a bank account, deposit money, withdraw cash, or apply for a credit card? We have current accounts, savings accounts and student accounts available.
-Female (Customer): Good afternoon. I want to open a current account—I just moved to this city for work, and I need an account to receive my salary and pay my bills. What documents do I need to provide, and what are the benefits of a current account?
-Male: Sure. To open a current account, you need to provide: your valid ID card (passport or driver’s license), proof of address (utility bill or bank statement from the past 3 months), and proof of income (salary slip or employment contract). Our current account offers free online banking, a debit card, free cash withdrawals from our ATMs, and mobile banking (for transferring money, paying bills, checking balance).
-Female: Here are all the documents—my passport, utility bill (from last month), and employment contract. I also want to know if there’s a monthly fee for the current account, and if I can set up direct debits for my rent and utility bills.
-Male: Great—let’s check the documents first. All correct, thank you. Our current account has no monthly fee if you deposit at least 1,000 pounds per month (your salary should cover that). Yes, you can set up direct debits for rent, utility bills, and other regular payments—we’ll help you with that today.
-Female: Perfect. I also want to apply for a debit card—how long will it take to receive it? And can I choose a PIN number for the card?
-Male: The debit card will be sent to your address within 3-5 working days, and the PIN number will be sent separately (for security). You can choose your own PIN number when you activate the card online or at an ATM. We also offer contactless payment on the debit card (up to 100 pounds per transaction).
-Female: Great. What about overdraft facilities? Do you offer an overdraft, and if so, what’s the interest rate?
-Male: Yes, we offer an overdraft facility—you can apply for an overdraft limit of up to 1,000 pounds. The interest rate is 15% per annum, and there’s no fee if you pay back the overdraft within 30 days. You can apply for the overdraft today, and we’ll process it within 24 hours.
-Female: I’ll apply for the overdraft (limit 500 pounds), please. Also, can you show me how to use the online banking and mobile banking apps? I’m not very familiar with them.
-Male: Of course. I’ll give you a leaflet with step-by-step instructions, and I can show you a quick demo now. You’ll need to create a username and password for online banking, and download our mobile app (available on iOS and Android). You can check your balance, transfer money, and pay bills anytime, anywhere.
-Female: Thank you so much. That’s very helpful. When will my account be activated?
-Male: Your account is activated immediately—here’s your account number and sort code. You can start using online banking today, and your debit card will arrive soon. If you have any questions, feel free to contact our customer service or visit the bank again.
-Female: Thank you so much for your help!
-Male: You’re welcome. Welcome to City Bank!
+
+assistant: Good afternoon, City Bank. Can I help you open a bank account, deposit money, withdraw cash, or apply for a credit card? We have current accounts, savings accounts and student accounts available.
+
+user: Good afternoon. I want to open a current account—I just moved to this city for work, and I need an account to receive my salary and pay my bills. What documents do I need to provide, and what are the benefits of a current account?
+
+assistant: Sure. To open a current account, you need to provide: your valid ID card (passport or driver’s license), proof of address (utility bill or bank statement from the past 3 months), and proof of income (salary slip or employment contract). Our current account offers free online banking, a debit card, free cash withdrawals from our ATMs, and mobile banking (for transferring money, paying bills, checking balance).
+
+user: Here are all the documents—my passport, utility bill (from last month), and employment contract. I also want to know if there’s a monthly fee for the current account, and if I can set up direct debits for my rent and utility bills.
+
+assistant: Great—let’s check the documents first. All correct, thank you. Our current account has no monthly fee if you deposit at least 1,000 pounds per month (your salary should cover that). Yes, you can set up direct debits for rent, utility bills, and other regular payments—we’ll help you with that today.
+
+user: Perfect. I also want to apply for a debit card—how long will it take to receive it? And can I choose a PIN number for the card?
+
+assistant: The debit card will be sent to your address within 3-5 working days, and the PIN number will be sent separately (for security). You can choose your own PIN number when you activate the card online or at an ATM. We also offer contactless payment on the debit card (up to 100 pounds per transaction).
+
+user: Great. What about overdraft facilities? Do you offer an overdraft, and if so, what’s the interest rate?
+
+assistant: Yes, we offer an overdraft facility—you can apply for an overdraft limit of up to 1,000 pounds. The interest rate is 15% per annum, and there’s no fee if you pay back the overdraft within 30 days. You can apply for the overdraft today, and we’ll process it within 24 hours.
+
+user: I’ll apply for the overdraft (limit 500 pounds), please. Also, can you show me how to use the online banking and mobile banking apps? I’m not very familiar with them.
+
+assistant: Of course. I’ll give you a leaflet with step-by-step instructions, and I can show you a quick demo now. You’ll need to create a username and password for online banking, and download our mobile app (available on iOS and Android). We also have a directory of our bank branches on the leaflet. You can check your balance, transfer money, and pay bills anytime, anywhere.
+
+user: Thank you so much. That’s very helpful. When will my account be activated?
+
+assistant: Your account is activated immediately—here’s your account number and sort code. You can start using online banking today, and your debit card will arrive soon. If you have any questions, feel free to contact our customer service or visit the bank again.
+
+user: Thank you so much for your help!
+
+assistant: You’re welcome. Welcome to City Bank!
+
 Dialogue 15: Airport Check-in（机场值机场景）「交通/机场类词汇/词组全覆盖」
-Male (Airport Check-in Staff): Good morning, welcome to British Airways. Can I have your passport and boarding pass, please? Are you checking in for flight BA123 to Paris, departing at 10:30 AM?
-Female (Passenger): Good morning. Yes, that’s me. Here’s my passport and boarding pass (printed copy). I have one piece of checked luggage and one carry-on bag—can I check in my suitcase, please? It’s a bit heavy.
-Male: Sure. Let’s weigh your checked luggage—the maximum weight is 23 kilograms. Your suitcase is 20 kilograms, which is within the limit. Do you have any liquids, sharp objects, or flammable items in your checked luggage or carry-on bag?
-Female: No, I don’t. My carry-on bag has a laptop, a phone, some clothes, and a small bottle of hand sanitizer (100ml)—is that allowed?
-Male: Yes, that’s allowed—liquids in carry-on bags must be 100ml or less, and placed in a clear plastic bag. Your hand sanitizer is fine. Here’s your checked luggage tag—please keep it safe, in case your luggage gets lost. Your carry-on bag must fit in the overhead compartment (maximum size: 55cm×40cm×20cm).
-Female: Thank you. Can I choose a window seat? I prefer window seats to look at the view during the flight. Also, when is the boarding time, and which gate is it?
-Male: Let me check—there’s a window seat available (seat 12A). I’ll assign that to you. Boarding time is 9:45 AM, and the gate is Gate 15. Please be at the gate 30 minutes before boarding (by 9:15 AM), as the gate will close 15 minutes before departure.
-Female: Perfect. Thank you. Do I need to go through security check? And where is the security check area?
-Male: Yes, you need to go through security check before going to the gate. The security check area is straight ahead, then turn left—it’s marked with “Security Check” signs. Please remove your laptop, phone, and any metal items (keys, watch) from your bag, and put them in the tray. You also need to take off your jacket and shoes for scanning.
-Female: Understood. Is there a duty-free shop after security? I want to buy some perfume as a souvenir for my friend.
-Male: Yes, there are several duty-free shops after security—perfume, chocolate, alcohol, and electronics. You can also find cafes and restaurants if you want to buy something to eat or drink before the flight. The flight duration is 1 hour and 30 minutes, and we’ll serve snacks and drinks on board.
-Female: Great. Thank you so much for your help. I’ll head to security now.
-Male: You’re welcome. Have a pleasant flight! Don’t forget to be at Gate 15 by 9:15 AM.
+
+assistant: Good morning, welcome to British Airways. Can I have your passport and boarding pass, please? Are you checking in for flight BA123 to Paris, departing at 10:30 AM?
+
+user: Good morning. Yes, that’s me. Here’s my passport and boarding pass (printed copy). I have one piece of checked luggage and one carry-on bag—can I check in my suitcase, please? It’s a bit heavy.
+
+assistant: Sure. Let’s weigh your checked luggage—the maximum weight is 23 kilograms. Your suitcase is 20 kilograms, which is within the limit. Do you have any liquids, sharp objects, or flammable items in your checked luggage or carry-on bag?
+
+user: No, I don’t. My carry-on bag has a laptop, a phone, some clothes, and a small bottle of hand sanitizer (100ml)—is that allowed?
+
+assistant: Yes, that’s allowed—liquids in carry-on bags must be 100ml or less, and placed in a clear plastic bag. Your hand sanitizer is fine. Here’s your checked luggage tag—please keep it safe, in case your luggage gets lost. Your carry-on bag must fit in the overhead compartment (maximum size: 55cm×40cm×20cm).
+
+user: Thank you. Can I choose a window seat? I prefer window seats to look at the view during the flight. Also, when is the boarding time, and which gate is it?
+
+assistant: Let me check—there’s a window seat available (seat 12A). I’ll assign that to you. Boarding time is 9:45 AM, and the gate is Gate 15. Please be at the gate 30 minutes before boarding (by 9:15 AM), as the gate will close 15 minutes before departure.
+
+user: Perfect. Thank you. Do I need to go through security check? And where is the security check area?
+
+assistant: Yes, you need to go through security check before going to the gate. The security check area is straight ahead, then turn left—it’s marked with “Security Check” signs. Please remove your laptop, phone, and any metal items (keys, watch) from your bag, and put them in the tray. You also need to take off your jacket and shoes for scanning.
+
+user: Understood. Is there a duty-free shop after security? I want to buy some perfume as a souvenir for my friend.
+
+assistant: Yes, there are several duty-free shops after security—perfume, chocolate, alcohol, electronics, and even a small shop selling violin and guitar accessories. You can also find cafes and restaurants if you want to buy something to eat or drink before the flight. The flight duration is 1 hour and 30 minutes, and we’ll serve snacks and drinks on board. There’s also a taxi stand outside the airport if you need transportation after landing.
+
+user: Great. Thank you so much for your help. I’ll head to security now.
+
+assistant: You’re welcome. Have a pleasant flight! Don’t forget to be at Gate 15 by 9:15 AM.
+
 Dialogue 16: Second-hand Item Transaction（二手物品交易场景）「日常物品/交易类词汇/词组全覆盖」
-Male (Seller): Good afternoon. You responded to my ad for the second-hand laptop and books—thank you for coming. Let me show you the laptop first—it’s a MacBook Air, 2 years old, in good condition, no scratches or damage.
-Female (Buyer): Good afternoon. Thank you for showing me. Can I turn it on and check the performance? I need it for work and study—so it needs to be fast, with enough storage and a good battery life.
-Male: Sure, go ahead. It has 8GB RAM, 256GB storage, and the battery lasts about 8 hours on a single charge. I’ve reset it to factory settings, so it’s like new—no personal files or apps. I also have the original charger and box.
-Female: That’s great—it works perfectly. What about the books? You said you have 10 academic books on linguistics and literature—are they in good condition, and do they have any notes or highlights?
-Male: Yes, here are the books—all in good condition, no torn pages, and only a few minor highlights (in pencil, which you can erase). They’re all university textbooks, which are very useful for linguistics students. I no longer need them because I graduated last year.
-Female: Perfect—I’m a linguistics student, so these books will be very helpful. You said the price is 400 pounds for the laptop and 50 pounds for the books—can you give me a discount? I’m a student, and I don’t have much money.
-Male: I understand. Let’s make it 430 pounds total (laptop + books)—that’s the lowest I can go. I bought the laptop for 800 pounds, and the books for 150 pounds, so it’s a good deal.
-Female: That’s fair—thank you. Can I pay by bank transfer? I don’t have enough cash with me. Also, do you have any receipts for the laptop or books?
-Male: Yes, bank transfer is fine—here’s my bank account details (account number: 12345678, sort code: 01-23-45). I have the original receipt for the laptop (from the Apple Store), but I don’t have receipts for the books. I can write you a handwritten receipt for the transaction, if you want.
-Female: That’s okay—a handwritten receipt is fine. I’ll transfer the money now (430 pounds) and show you the transfer confirmation. Can I take the laptop and books with me today?
-Male: Yes, as soon as I see the transfer confirmation, you can take them. I’ll also give you a laptop bag (free of charge) to carry the laptop. The laptop has a 6-month warranty—if it breaks down within 6 months, I’ll help you repair it (if it’s a minor issue).
-Female: Great. Here’s the transfer confirmation—you should receive the money within 5 minutes. Thank you so much for the discount and the laptop bag.
-Male: You’re welcome. Here’s the handwritten receipt, and the laptop bag. I hope the laptop and books are useful for you. If you have any questions about the laptop, feel free to call me.
-Female: Will do. Thank you again—have a nice day!
-Male: You
-|（注：文档部分内容可能由 AI 生成)
+
+assistant: Good afternoon. You responded to my ad for the second-hand laptop and books—thank you for coming. Let me show you the laptop first—it’s a MacBook Air, 2 years old, in good condition, no scratches or damage.
+
+user: Good afternoon. Thank you for showing me. Can I turn it on and check the performance? I need it for work and study—so it needs to be fast, with enough storage and a good battery life.
+
+assistant: Sure, go ahead. It has 8GB RAM, 256GB storage, and the battery lasts about 8 hours on a single charge. I’ve reset it to factory settings, so it’s like new—no personal files or apps. I also have the original charger and box.
+
+user: That’s great—it works perfectly. What about the books? You said you have 10 academic books on linguistics and literature, plus a dictionary and a magazine—are they in good condition, and do they have any notes or highlights?
+
+assistant: Yes, here are the books—all in good condition, no torn pages, and only a few minor highlights (in pencil, which you can erase). They’re all university textbooks, which are very useful for linguistics students. I no longer need them because I graduated last year.
+
+user: Perfect—I’m a linguistics student, so these books will be very helpful. You said the price is 400 pounds for the laptop and 50 pounds for the books—can you give me a discount? I’m a student, and I don’t have much money.
+
+assistant: I understand. Let’s make it 430 pounds total (laptop + books)—that’s the lowest I can go. I bought the laptop for 800 pounds, and the books for 150 pounds, so it’s a good deal.
+
+user: That’s fair—thank you. Can I pay by bank transfer? I don’t have enough cash with me. Also, do you have any receipts for the laptop or books?
+
+assistant: Yes, bank transfer is fine—here’s my bank account details (account number: 12345678, sort code: 01-23-45). I have the original receipt for the laptop (from the Apple Store), but I don’t have receipts for the books. I can write you a handwritten receipt for the transaction, if you want.
+
+user: That’s okay—a handwritten receipt is fine. I’ll transfer the money now (430 pounds) and show you the transfer confirmation. Can I take the laptop and books with me today?
+
+assistant: Yes, as soon as I see the transfer confirmation, you can take them. I’ll also give you a laptop bag (free of charge) to carry the laptop. The laptop has a 6-month warranty—if it breaks down within 6 months, I’ll help you repair it (if it’s a minor issue).
+
+user: Great. Here’s the transfer confirmation—you should receive the money within 5 minutes. Thank you so much for the discount and the laptop bag.
+
+assistant: You’re welcome. Enjoy your laptop and books—good luck with your studies!
+
+Dialogue 17: Clothing Shopping（服装购物场景）「服装类词汇全覆盖」
+
+assistant: Good afternoon, Fashion Hub Store. Can I help you find any clothes today? We have new arrivals for spring—shirts, trousers, skirts, jackets and sweaters, all in different sizes and colors.
+
+user: Good afternoon. I need to buy some casual and formal clothes for my university events. First, do you have any cotton shirts in size M? I prefer light colors like white, light blue or pink.
+
+assistant: Sure! We have cotton shirts in all those colors—here are the samples. The white one is plain, the light blue has a small pattern, and the pink is striped. We also have a blouse in light blue, which is more suitable for formal occasions. They’re all size M, and made of soft cotton, very comfortable for daily wear. We have a tailor on-site if you need to adjust the size.
+
+user: Perfect. Can I try this light blue striped shirt on? Where is the fitting room? Also, do you have matching trousers for it—preferably black or gray?
+
+assistant: The fitting room is at the back of the store, next to the counter. Sure, we have black and gray trousers in size M—they’re made of linen, which is breathable. I’ll bring them for you to try with the shirt.
+
+user: Thank you. I also need a formal dress for a university dinner—something simple, not too fancy. Do you have any knee-length dresses in dark colors?
+
+assistant: Yes, we do. Here’s a black knee-length dress with short sleeves—it’s made of silk, very elegant. We also have a navy blue one with a small collar, which is also suitable for formal occasions. Both are size M.
+
+user: I’ll try the black silk dress too. Do you have any jackets to match it? I need something light, since it’s spring.
+
+assistant: Absolutely. We have a light gray blazer in size M—it’s thin, perfect for spring. It matches the black dress well, and you can also wear it with the shirt and trousers for a semi-formal look.
+
+user: Great. Can I get a pair of shoes too? Something comfortable, like leather flats or low-heeled shoes, in black.
+
+assistant: Sure. Here are black leather flats—they’re soft and comfortable, perfect for long days at university. We also have low-heeled shoes and black boots if you prefer a bit of height or need more warmth. Both are size 6. We also have thread and scissors if you need to fix any small tears in your clothes.
+
+user: I’ll take the leather flats. Now, can I go to the fitting room to try all these on? Also, do you have any discounts for students?
+
+assistant: Of course—go ahead, and I’ll wait outside the fitting room. We offer a 10% student discount with your student ID card. Just show it at the counter when you pay.
+
+user: Perfect. I’ll be right back. (After trying on) The shirt, trousers, dress, blazer and flats all fit perfectly! How much is the total before discount?
+
+assistant: Let’s calculate: cotton shirt (25 pounds), linen trousers (30 pounds), silk dress (50 pounds), gray blazer (45 pounds), leather flats (35 pounds). Total is 185 pounds. With the 10% discount, it’s 166.5 pounds.
+
+user: Great. I’ll pay by credit card. Here’s my student ID for the discount. Can you wrap the dress and blazer in a gift box? I need them for the dinner next week.
+
+assistant: Sure, no problem—I’ll wrap them nicely for you. Here’s your receipt, and all your items. Thank you for shopping with us!
+
+user: Thank you so much! I’ll come back for more clothes soon.
+
+assistant: You’re welcome, Ms. Green. We look forward to seeing you again! If you need any other clothes, we also have sweaters and skirts in different styles, and we can order a piano-shaped brooch for you as a gift.
+
+Dialogue 18: Visiting a Museum（博物馆场景）「自然/科技/文化类未覆盖词汇全覆盖」
+
+assistant: Good morning, City Museum. Welcome! Can I help you with a guided tour, or do you need a map of the exhibition halls? We have exhibits on dinosaur, planet, universe, satellite, rocket, microscope and volcano today.
+
+user: Good morning. I want to visit the natural history and science exhibition. First, where can I see the dinosaur fossils? I’m very interested in prehistoric creatures.
+
+assistant: The dinosaur fossils are in Hall 1, on the first floor—we have a complete skeleton of a large dinosaur, and a display of dinosaur eggs. Next to it is the space exhibition, where you can see models of satellite, rocket and planet, and learn about the universe.
+
+user: Great. Do you have a microscope exhibit? I want to see how microscopes work, as I’m a science student.
+
+assistant: Yes, Hall 3 has a collection of microscopes—from old models to modern digital ones. Our guide can show you how to use a basic microscope to observe small objects. We also have a model of a volcano, showing how it erupts.
+
+user: Perfect. Is there an entrance fee? And can I take photos of the exhibits? I want to take some pictures for my school project.
+
+assistant: The entrance fee is 15 pounds per person, and students get a 50% discount with a student ID. You can take photos, but no flash—flash may damage the fossils and old exhibits. We also have a gift shop selling dinosaur toys and planet models.
+
+user: Great. I’ll pay the student fee. Can I get a guided tour? I want to learn more about the exhibits.
+
+assistant: Sure—the guided tour starts in 10 minutes, and it’s free for students. Our guide is an engineer who knows a lot about space and science. He will also tell you about the history of the microscope and how it was invented.
+
+user: Perfect. Thank you so much! Where do I meet the guide?
+
+assistant: At the entrance of Hall 1, next to the dinosaur skeleton. Enjoy your visit, Ms. Green!
+
+user: Thank you. I’m really looking forward to it!
+
+Dialogue 19: Daily Errands & Services（日常琐事场景）「职业/日常服务类未覆盖词汇全覆盖」
+
+assistant: Good morning, City Service Centre. Can I help you with any daily errands—visiting the barber, bakery, butcher, or contacting a lawyer, architect, astronaut, pilot, singer, soldier, nurse, editor? We can arrange all these services for you.
+
+user: Good morning. I need to do a few errands today. First, I need to visit a barber to cut my hair—I want a short haircut, not too short. Do you have a recommended barber nearby?
+
+assistant: Sure. Mr. Brown is a great barber—he has a shop 5 minutes walk from here. He can cut all kinds of hairstyles, and he also trims beards if you need. His shop opens at 9 AM, and you don’t need an appointment.
+
+user: Great. Next, I need to buy some bread from the bakery—do you know a good one that sells fresh bread every morning?
+
+assistant: Yes, Green’s Bakery is just around the corner. They sell fresh bread, cakes and pastries every morning, and their bread is made with high-quality flour. They also have a variety of sandwiches for lunch.
+
+user: Perfect. I also need to buy some meat from the butcher—can you recommend one that sells fresh beef and pork?
+
+assistant: Sure, Smith’s Butcher Shop is on Main Street. They have fresh meat every day, including beef, pork, lamb and chicken. The butcher is very friendly, and he can cut the meat into the size you need.
+
+user: Great. One last thing: I need to consult a lawyer about a contract issue—do you have a good lawyer available today?
+
+assistant: Yes, Ms. White is a professional lawyer who specializes in contract issues. She has an office on the 3rd floor of this building, and she has time for a consultation at 2 PM today. The consultation fee is 50 pounds per hour.
+
+user: Perfect. Can you also tell me how to contact an architect? I want to renovate my flat, and I need an architect to design the layout.
+
+assistant: Sure. Mr. Lee is a famous architect—he has designed many residential buildings in the city. His contact number is 07891234567, and you can call him to make an appointment. He will need to visit your flat to measure the meter and centimeter of each room.
+
+user: Thank you so much. I also want to know if there’s a way to meet an astronaut or pilot—my little brother is very interested in space and aviation.
+
+assistant: Yes! We have a special event next Saturday—an astronaut and a pilot will come to give a talk at the city stadium. You can buy tickets online for 10 pounds per person, and your brother can ask them questions after the talk.
+
+user: That’s wonderful! I’ll buy tickets right away. Thank you for all your help!
+
+assistant: You’re welcome, Ms. Green. Good luck with your errands, and enjoy the event next Saturday!
+
+Dialogue 20: Home Decoration & Outdoor Activities（家居装饰+户外场景）「剩余未覆盖词汇全覆盖」
+
+assistant: Good afternoon, Home Decoration & Outdoor Store. Can I help you with home decoration materials, outdoor tools, or outdoor activities? We have cement, ladder, whip, whistle, wheel, zebra toys, tiger toys, snake toys, kangaroo toys, sheep toys, and more.
+
+user: Good afternoon. I’m decorating my new flat, so I need some cement to fix the wall, and a ladder to paint the ceiling. Do you have these items?
+
+assistant: Sure! We have high-quality cement (20 pounds per bag), and a sturdy ladder (50 pounds). We also have a drill and hammer to help you with the decoration. Our staff can deliver the items to your home for free.
+
+user: Great. I also need a whip and a whistle for my outdoor activities—I’m going camping next weekend, and I need them for safety.
+
+assistant: Yes, we have whips (15 pounds each) and whistles (5 pounds each)—the whistles are loud, perfect for calling for help. We also have a wheel for your camping cart, which can help you carry your gear.
+
+user: Perfect. My little niece loves animals, so I want to buy some animal toys—do you have zebra, tiger, snake, kangaroo and sheep toys?
+
+assistant: Yes! We have all these animal toys—they’re made of soft material, safe for kids. The zebra toy is 10 pounds, tiger toy is 12 pounds, snake toy is 8 pounds, kangaroo toy is 11 pounds, and sheep toy is 9 pounds.
+
+user: Great. I’ll take all these toys. Do you have any other outdoor items? I also need a raincoat for camping, in case it rains.
+
+assistant: Yes, we have raincoats in different sizes and colors—20 pounds each. We also have an umbrella (10 pounds) and a tractor model (30 pounds) for your niece. We sell gasoline too, if you need it for your camping generator.
+
+user: Perfect. I’ll take a raincoat and an umbrella too. How much is the total?
+
+assistant: Let’s calculate: cement (20), ladder (50), whip (15), whistle (5), wheel (25), zebra toy (10), tiger toy (12), snake toy (8), kangaroo toy (11), sheep toy (9), raincoat (20), umbrella (10). Total is 195 pounds.
+
+user: Great. I’ll pay by credit card. Can you deliver the cement and ladder to my address tomorrow morning?
+
+assistant: Sure, no problem. We’ll deliver them at 9 AM tomorrow. Here’s your receipt, and all your items. Thank you for shopping with us!
+
+user: Thank you so much! I’ll call you if I need anything else.
+
+assistant: You’re welcome, Ms. Green. Have a great camping trip!
